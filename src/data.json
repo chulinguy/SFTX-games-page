@@ -1,0 +1,78 @@
+[
+  {
+    "name": "Puny Stage", 
+    "playerLimit": "several", 
+    "type": "game",
+    "url": "https://www.youtube.com/watch?v=VLMjJaOTf9I"
+  },{
+    "name": "Playing with Axis", 
+    "playerLimit": "all", 
+    "type": "dance",
+    "url": "https://www.youtube.com/watch?v=NNApsJswfiI"
+  },{
+    "name": "Silent Film", 
+    "playerLimit": "none", 
+    "type": "show",
+    "url": "https://www.youtube.com/watch?v=W0ePtGffpfk"
+  },{
+    "name": "Dance to This, Homer!", 
+    "playerLimit": "few", 
+    "type": "show",
+    "url": "https://www.youtube.com/watch?v=EBFRod8uakM"
+  },{
+    "name": "Flippers and Leg Warmers", 
+    "playerLimit": "several", 
+    "type": "game",
+    "url": "https://www.youtube.com/watch?v=PRQtA2KABTo"
+  },{
+    "name": "Blasting Boleos", 
+    "playerLimit": "several", 
+    "type": "game",
+    "url": "https://www.youtube.com/watch?v=zfM3Ssj0X14"
+  },{
+    "name": "Tanturi Roulette", 
+    "playerLimit": "all", 
+    "type": "mixer",
+    "url": "https://www.youtube.com/watch?v=ucvd9phgikA"
+  },{
+    "name": "Ghetto Blasters", 
+    "playerLimit": "all", 
+    "type": "dance",
+    "url": "https://www.youtube.com/watch?v=CEUskUy2Vtk"
+  },{
+    "name": "Sliding Paper", 
+    "playerLimit": "few", 
+    "type": "game",
+    "url": "https://www.youtube.com/watch?v=7NAWJA1yXk0"
+  },{
+    "name": "'The Tango Lesson', part I", 
+    "playerLimit": "several", 
+    "type": "show",
+    "url": "https://www.youtube.com/watch?v=aVLBObVxyi0"
+  },{
+    "name": "'The Tango Lesson', part II", 
+    "playerLimit": "several", 
+    "type": "show",
+    "url": "https://www.youtube.com/watch?v=s1Ny20sOvlQ"
+  },{
+    "name": "Rhythm & Syncopation", 
+    "playerLimit": "all", 
+    "type": "dance",
+    "url": "https://www.youtube.com/watch?v=1u5BzCV5pZk"
+  },{
+    "name": "Biomechanics of Pivoting", 
+    "playerLimit": "all", 
+    "type": "dance",
+    "url": "https://www.youtube.com/watch?v=5gK_oSrSZUg"
+  },{
+    "name": "Tape Line and Bell", 
+    "playerLimit": "few", 
+    "type": "game",
+    "url": "https://www.youtube.com/watch?v=VjrB_sM722g"
+  },{
+    "name": "Make Your Own Music", 
+    "playerLimit": "few", 
+    "type": "game",
+    "url": "https://www.youtube.com/watch?v=C6fOXnqE7_w"
+  }
+]
